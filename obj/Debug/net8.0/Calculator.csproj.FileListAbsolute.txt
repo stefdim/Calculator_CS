@@ -1,0 +1,14 @@
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/bin/Debug/net8.0/Calculator
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/stefanos/Documents/My_code/VisualStudioProjects/c#/CalculatorCS/Calculator/obj/Debug/net8.0/ref/Calculator.dll
